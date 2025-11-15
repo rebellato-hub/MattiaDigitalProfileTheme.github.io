@@ -75,18 +75,20 @@ certifications:
         where I received training in corporate safety, electrical risk, risk from video terminals,
         risk from manual handling of loads, and finally, signage.
 
-projects:
+experiences:
   title: Work Experience
   info:
-    - role: ""      # puoi lasciare vuoto se vuoi
+    - role: ""
+      time: ""
+      company: ""
       details: |
-    Over the years, I've had various work experiences, partly because I'm a person who enjoys working,
-    so I started working when I reached legal age. I'm skilled in using various industrial machinery because
-    I worked on the assembly line at Lago Assemblaggi, located in Galliera Veneta, and I did mostly manual labor.
-    I also worked as an electrician at Cecchin Impianti Srl, also in Galliera Veneta,
-    where I learned to assemble electrical panels from scratch, creating the base and inserting all the necessary electrical components.
-    Finally, I worked as a software developer at Control Applications in Belvedere,
-    learning to use SAIA PLCs and the SAIA development environment and improving my knowledge of programming languages.
+        Over the years, I've had various work experiences, partly because I'm a person who enjoys working,
+        so I started working when I reached legal age. I'm skilled in using various industrial machinery because
+        I worked on the assembly line at Lago Assemblaggi, located in Galliera Veneta, and I did mostly manual labor.
+        I also worked as an electrician at Cecchin Impianti Srl, also in Galliera Veneta,
+        where I learned to assemble electrical panels from scratch, creating the base and inserting all the necessary electrical components.
+        Finally, I worked as a software developer at Control Applications in Belvedere,
+        learning to use SAIA PLCs and the SAIA development environment and improving my knowledge of programming languages.
 
 skills:
   title: Skills & Proficiency
