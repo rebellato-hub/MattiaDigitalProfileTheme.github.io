@@ -77,13 +77,7 @@ certifications:
 
 projects:
   title: Work Experience
-  assignments:
-    - title: ""
-      tagline: ""
-      link:""
-  detail:
-    title: ""
-    text: |
+    details: |
         Over the years, I've had various work experiences, partly because I'm a person who enjoys working,
         so I started working when I reached legal age. I'm skilled in using various industrial machinery because
         I worked on the assembly line at Lago Assemblaggi, located in Galliera Veneta, and I did mostly manual labor.
