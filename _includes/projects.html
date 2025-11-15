@@ -34,5 +34,11 @@
     </div><!--//item-->
   {% endfor %}
 
+  <!-- Nuova sezione Detail dopo Certifications -->
+  {% if projects.detail %}
+  <h3 class="section-subtitle">{{ projects.detail.title }}</h3>
+  <p>{{ projects.detail.text }}</p>
+  {% endif %}
+
 </section><!--//section-->
 {% endif %}
