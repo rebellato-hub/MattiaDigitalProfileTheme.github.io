@@ -58,40 +58,12 @@ experiences:
     time: 2022 - Present
     company: Bassano del Grappa
     details: |
-      Describe your role here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-      enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-      error sit voluptatem accusantium doloremque laudantium, totam rem
-      aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-      architecto beatae vitae dicta sunt explicabo.
-        - Bullet point
-        - Bullet point
-  - role: Senior Software Engineer
-    time: 2014 - 2015
-    company: Google, London
-    details: |
-      Describe your role here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem.
-        - Bullet point
-        - Bullet point
-  - role: UI Developer
-    time: 2012 - 2014
-    company: Amazon, London
-    details: |
-      Describe your role here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem.
-        - Bullet point
-        - Bullet point
-
+       I started attending the Enrico Fermi Technical Institute in Bassano del Grappa in 2022, 
+       my second year, after having attended the ITIS in Cittadella in my first year, but 
+       I didn't like it. I'm now in my final year and will graduate in June 2026. I'm taking 
+       the Computer Science and Telecommunications course and studying various IT subjects, such as: 
+       Computer Science, Systems and Networks, Information Technology and Systems Design, and Project 
+       Management and Business Organization.
 certifications:
   title: Certifications
   list:
