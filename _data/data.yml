@@ -83,29 +83,15 @@ certifications:
       where I received training in corporate safety, electrical risk, risk from video terminals, 
       risk from manual handling of loads, and finally, signage.
 projects:
-  title: Projects
-  intro: >
-    You can list your side projects in this section. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-  assignments:
-  - title: Velocity
-    link: "#hook"
-    tagline: "A responsive website template designed to help startups promote, market and sell their products."
-
-  - title: DevStudio
-    link: "#"
-    tagline: "A responsive website template designed to help web developers/designers market their services."
-
-  - title: Tempo
-    link: "#"
-    tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-  - title: Atom
-    link: "#"
-    tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-  - title: Delta
-    link: "#"
-    tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+    title: Work Experience
+    details: |
+Over the years, I've had various work experiences, partly because I'm a person who enjoys working, 
+so I started working when I reached legal age. I'm skilled in using various industrial machinery because 
+I worked on the assembly line at Lago Assemblaggi, located in Galliera Veneta, and I did mostly manual labor. 
+I also worked as an electrician at Cecchin Impianti Srl, also in Galliera Veneta, where I learned to assemble 
+electrical panels from scratch, creating the base and inserting all the necessary electrical components. Finally, 
+I worked as a software developer at Control Applications in Belvedere, learning to use SAIA PLCs and the SAIA development 
+environment and improving my knowledge of programming languages.
 
 oss:
   title: OSS Contributions
