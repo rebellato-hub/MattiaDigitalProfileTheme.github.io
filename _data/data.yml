@@ -12,63 +12,43 @@ sidebar:
   tagline: Software Developer
   avatar: profile.png 
   # Sidebar links
-  email: example@email.com
-  phone: 012 345 6789
-  timezone: America/Cancun # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
-  citizenship:
-  website: https://example.com/ # Include the full website URL, including "http://" or "https://".
-  linkedin: alandoe
-  xing: alandoe
-  github: jekyll
-  telegram: # add your nickname without '@' sign
-  gitlab:
-  bitbucket:
-  bluesky: '@jekyllrb.bsky.social' # Specify your full Bluesky handle
-  twitter: '@jekyllrb'
-  stack-overflow: # Number/Username, e.g. 123456/alandoe
-  codewars:
-  goodreads: # Number-Username, e.g. 123456-alandoe
-  mastodon: # Please include your full Mastodon link here.
-  hackerrank: # Please provide your HackerRank username.
-  leetcode: # Please provide your LeetCode username.
-  pdf: # Add a PDF link here if you want to include a PDF custom version in your resume.
+  email: mattiarebellato10@gmail.com
+  phone: 333 663 xxxx
+  timezone: Italy/Rome
+  citizenship: Italy
+  website: https://rebellato-hub.github.io/MattiaDigitalProfileTheme.github.io/.
+  telegram: Rebeato
 
   languages:
     title: Languages
     info:
-    - idiom: English
+    - idiom: Italian
       level: Native
 
-    - idiom: French
-      level: Professional
-
-    - idiom: Spanish
-      level: Professional
+    - idiom: English
+      level: B1
 
   interests:
     title: Interests
     info:
-    - item: Climbing
+    - item: Football
       link:
 
 
-    - item: Snowboarding
+    - item: ski
       link:
 
 
-    - item: Cooking
+    - item: Fishing
       link:
 
 
 career-profile:
   title: Career Profile
   summary: |
-    Summarise your career here lorem ipsum dolor sit amet, consectetuer
-    adipiscing elit. You can [download this free resume/CV template here]().
-    Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-    penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-    Donec quam felis, ultricies nec, pellentesque eu.
-    Second paragraph if required.
+    My name is Mattia Rebellato, a young man looking to enter the software development world. 
+    I really enjoy programming, especially with C and C++, but I'm also proficient in other 
+    languages. One day, I'd like to start my own company or at least work from my own office.
 education:
   title: Education
   info:
