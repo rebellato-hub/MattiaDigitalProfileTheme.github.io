@@ -46,43 +46,17 @@ sidebar:
 career-profile:
   title: Personal Details
   summary: |
-My name is Mattia Rebellato, I was born in Camposampiero in the province of Padua
-and now live in Galliera Veneta. I'm a young programmer looking to enter the software development world. 
-I really enjoy programming using different languages, my favorites being C and C++. I also enjoy playing soccer, skiing, 
-and fishing with my friends. My future dream is to have my own software development business, 
-and not just because I have other experience in various fields thanks to my work experience.
-education:
+    My name is Mattia Rebellato, I was born in Camposampiero in the province of Padua
+    and now live in Galliera Veneta. I'm a young programmer looking to enter the software development world. 
+    I really enjoy programming using different languages, my favorites being C and C++. I also enjoy playing soccer, skiing, 
+    and fishing with my friends. My future dream is to have my own software development business, 
+    and not just because I have other experience in various fields thanks to my work experience.
+experiences:
   title: Education
   info:
-  - degree: MSc in Computer Science
-    university: University of London
-    time: 2011 - 2012
-    details: |
-      Describe your study here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-      sociis natoque penatibus et magnis dis parturient montes, nascetur
-      ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-      pretium quis, sem.
-        - Bullet point
-        - Bullet point
-  - degree: BSc in Applied Mathematics
-    university: Bristol University
-    time: 2007 - 2011
-    details: |
-      Describe your study here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-      sociis natoque penatibus et magnis dis parturient montes, nascetur
-      ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-      pretium quis, sem.
-        - Bullet point
-        - Bullet point
-
-experiences:
-  title: Experiences
-  info:
-  - role: Lead Developer
-    time: 2015 - Present
-    company: Startup Hubs, San Francisco
+  - role: Itis Enrico Fermi
+    time: 2022 - Present
+    company: Bassano del Grappa
     details: |
       Describe your role here lorem ipsum dolor sit amet, consectetuer
       adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
