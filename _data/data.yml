@@ -4,8 +4,8 @@
 
 sidebar:
   position: right # position of the sidebar : left or right
-  about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
-  education: True # set to False if you want education in main section instead of in sidebar
+  about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
+  education: False # set to False if you want education in main section instead of in sidebar
 
   # Profile information
   name: Mattia Rebellato
@@ -46,10 +46,11 @@ sidebar:
 career-profile:
   title: Personal Details
   summary: |
-    My name is Mattia Rebellato, I was born in Camposampiero in the province of Padua and now live in Galliera Veneta. 
-    I'm a young programmer looking to enter the software development world. I really enjoy programming using different languages, 
-    my favorites being C and C++. My future dream is to have my own software development business, and not just because I have 
-    experience in various fields thanks to my work experience.
+My name is Mattia Rebellato, I was born in Camposampiero in the province of Padua
+and now live in Galliera Veneta. I'm a young programmer looking to enter the software development world. 
+I really enjoy programming using different languages, my favorites being C and C++. I also enjoy playing soccer, skiing, 
+and fishing with my friends. My future dream is to have my own software development business, 
+and not just because I have other experience in various fields thanks to my work experience.
 education:
   title: Education
   info:
