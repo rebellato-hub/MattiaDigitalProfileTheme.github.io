@@ -1,119 +1,106 @@
-#
-# Be aware that even a small syntax error here can lead to failures in output.
-#
-
 sidebar:
-  position: right # position of the sidebar : left or right
-  about: false # set to False or comment line if you want to remove the "how to use?" in the sidebar
-  education: false # set to False if you want education in main section instead of in sidebar
+  position: right
+  about: false
+  education: false
 
   # Profile information
   name: Mattia Rebellato
   tagline: Software Developer
-  avatar: profile.png 
+  avatar: profile.png
   # Sidebar links
   email: mattiarebellato10@gmail.com
   phone: 333 663 xxxx
   timezone: Italy/Rome
   citizenship: Italy
-  website: https://rebellato-hub.github.io/MattiaDigitalProfileTheme.github.io/.
+  website: https://rebellato-hub.github.io/MattiaDigitalProfileTheme.github.io/
   telegram: mattia_rebellato_
 
   languages:
     title: Languages
     info:
-    - idiom: Italian
-      level: Native
-
-    - idiom: English
-      level: B1
+      - idiom: Italian
+        level: Native
+      - idiom: English
+        level: B1
 
   interests:
     title: Interests
     info:
-    - item: Football
-      link:
-
-
-    - item: Ski
-      link:
-
-
-    - item: Fishing
-      link:
-
+      - item: Football
+        link: ""
+      - item: Ski
+        link: ""
+      - item: Fishing
+        link: ""
 
 career-profile:
   title: Personal Details
   summary: |
     My name is Mattia Rebellato, I was born in Camposampiero in the province of Padua
-    and now live in Galliera Veneta. I'm a young programmer looking to enter the software development world. 
-    I really enjoy programming using different languages, my favorites being C and C++. I also enjoy playing soccer, skiing, 
-    and fishing with my friends. My future dream is to have my own software development business, 
+    and now live in Galliera Veneta. I'm a young programmer looking to enter the software development world.
+    I really enjoy programming using different languages, my favorites being C and C++.
+    I also enjoy playing soccer, skiing, and fishing with my friends.
+    My future dream is to have my own software development business, 
     and not just because I have other experience in various fields thanks to my work experience.
+
 experiences:
   title: Education
   info:
-  - role: Itis Enrico Fermi
-    time: 2022 - Present
-    company: Bassano del Grappa
-    details: |
-       I started attending the Enrico Fermi Technical Institute in Bassano del Grappa in 2022, 
-       my second year, after having attended the ITIS in Cittadella in my first year, but 
-       I didn't like it. I'm now in my final year and will graduate in June 2026. I'm taking 
-       the Computer Science and Telecommunications course and studying various IT subjects, such as: 
-       Computer Science, Systems and Networks, Information Technology and Systems Design, and Project 
-       Management and Business Organization.
+    - role: Itis Enrico Fermi
+      time: 2022 - Present
+      company: Bassano del Grappa
+      details: |
+        I started attending the Enrico Fermi Technical Institute in Bassano del Grappa in 2022,
+        my second year, after having attended the ITIS in Cittadella in my first year, but I didn't like it.
+        I'm now in my final year and will graduate in June 2026. I'm taking the Computer Science and Telecommunications course
+        and studying various IT subjects, such as: Computer Science, Systems and Networks,
+        Information Technology and Systems Design, and Project Management and Business Organization.
+
 certifications:
   title: Certifications
   list:
-  - name: CCNA Introduction to Networks
-    start: 2024
-    end: 2025
-    organization: Cisco Networking Academy
-    details: |
-      In 2024/2025, I attended the Cisco Networking Academy course on Introduction to Networking.  
-      This course taught me how to manage a network, configure IT devices, monitor network traffic, and much more.
-- name:  Specific training on health and safety at work
-    start: 2023
-    end: 2024
-    organization: Itis Enrico Fermi
-    details: |
-      In 2023/2024, I attended an 8-hour course offered by the Enrico Fermi Technical Institute, 
-      where I received training in corporate safety, electrical risk, risk from video terminals, 
-      risk from manual handling of loads, and finally, signage.
+    - name: CCNA Introduction to Networks
+      start: 2024
+      end: 2025
+      organization: Cisco Networking Academy
+      details: |
+        In 2024/2025, I attended the Cisco Networking Academy course on Introduction to Networking.
+        This course taught me how to manage a network, configure IT devices, monitor network traffic, and much more.
+    - name: Specific training on health and safety at work
+      start: 2023
+      end: 2024
+      organization: Itis Enrico Fermi
+      details: |
+        In 2023/2024, I attended an 8-hour course offered by the Enrico Fermi Technical Institute,
+        where I received training in corporate safety, electrical risk, risk from video terminals,
+        risk from manual handling of loads, and finally, signage.
+
 projects:
-    title: Work Experience
-    details: |
-Over the years, I've had various work experiences, partly because I'm a person who enjoys working, 
-so I started working when I reached legal age. I'm skilled in using various industrial machinery because 
-I worked on the assembly line at Lago Assemblaggi, located in Galliera Veneta, and I did mostly manual labor. 
-I also worked as an electrician at Cecchin Impianti Srl, also in Galliera Veneta, where I learned to assemble 
-electrical panels from scratch, creating the base and inserting all the necessary electrical components. Finally, 
-I worked as a software developer at Control Applications in Belvedere, learning to use SAIA PLCs and the SAIA development 
-environment and improving my knowledge of programming languages.
+  title: Work Experience
+  details: |
+    Over the years, I've had various work experiences, partly because I'm a person who enjoys working,
+    so I started working when I reached legal age. I'm skilled in using various industrial machinery because
+    I worked on the assembly line at Lago Assemblaggi, located in Galliera Veneta, and I did mostly manual labor.
+    I also worked as an electrician at Cecchin Impianti Srl, also in Galliera Veneta,
+    where I learned to assemble electrical panels from scratch, creating the base and inserting all the necessary electrical components.
+    Finally, I worked as a software developer at Control Applications in Belvedere,
+    learning to use SAIA PLCs and the SAIA development environment and improving my knowledge of programming languages.
 
 skills:
-  title: Skills &amp; Proficiency
-
+  title: Skills & Proficiency
   toolset:
-  - name: Python & Django
-    level: 98%
-
-  - name: Javascript & jQuery
-    level: 98%
-
-  - name: Angular
-    level: 98%
-
-  - name: HTML5 & CSS
-    level: 95%
-
-  - name: Ruby on Rails
-    level: 85%
-
-  - name: Sketch & Photoshop
-    level: 60%
+    - name: Python & Django
+      level: 98%
+    - name: Javascript & jQuery
+      level: 98%
+    - name: Angular
+      level: 98%
+    - name: HTML5 & CSS
+      level: 95%
+    - name: Ruby on Rails
+      level: 85%
+    - name: Sketch & Photoshop
+      level: 60%
 
 footer: >
   Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
