@@ -35,7 +35,7 @@ sidebar:
       link:
 
 
-    - item: ski
+    - item: Ski
       link:
 
 
@@ -44,11 +44,12 @@ sidebar:
 
 
 career-profile:
-  title: Career Profile
+  title: Personal Details
   summary: |
-    My name is Mattia Rebellato, a young man looking to enter the software development world. 
-    I really enjoy programming, especially with C and C++, but I'm also proficient in other 
-    languages. One day, I'd like to start my own company or at least work from my own office.
+    My name is Mattia Rebellato, I was born in Camposampiero in the province of Padua and now live in Galliera Veneta. 
+    I'm a young programmer looking to enter the software development world. I really enjoy programming using different languages, 
+    my favorites being C and C++. My future dream is to have my own software development business, and not just because I have 
+    experience in various fields thanks to my work experience.
 education:
   title: Education
   info:
