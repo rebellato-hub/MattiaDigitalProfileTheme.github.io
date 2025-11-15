@@ -74,7 +74,14 @@ certifications:
     details: |
       In 2024/2025, I attended the Cisco Networking Academy course on Introduction to Networking.  
       This course taught me how to manage a network, configure IT devices, monitor network traffic, and much more.
-
+- name:  Specific training on health and safety at work
+    start: 2023
+    end: 2024
+    organization: Itis Enrico Fermi
+    details: |
+      In 2023/2024, I attended an 8-hour course offered by the Enrico Fermi Technical Institute, 
+      where I received training in corporate safety, electrical risk, risk from video terminals, 
+      risk from manual handling of loads, and finally, signage.
 projects:
   title: Projects
   intro: >
