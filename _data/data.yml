@@ -91,7 +91,15 @@ skills:
   list:
     - name: Softskills
       details: |
-        CIaoaaaaa
+        Communication and interpersonal relationships: Effective communication, active listening, empathy. <br>
+        Teamwork: Collaboration, leadership, mediation skills, and teamwork. <br>
+        Adaptability and resilience: Flexibility, adaptability, stress management, creativity. <br>
+    - name: Hardskills
+      details: |
+        Programming languages: C, C++, C#, Python, HTML, Java. <br>
+        Database management: SQL. <br>
+        Systems and Networks: Network Management, Systems Engineer. <br>
+        
   
 
 footer: >
