@@ -99,7 +99,11 @@ skills:
         Programming languages: C, C++, C#, Python, HTML, Java. <br>
         Database management: SQL. <br>
         Systems and Networks: Network Management, Systems Engineer. <br>
-        
+Portfolio:
+  title: Portfolio
+  details: |
+    In this link you can find some simple projects that I developed for school
+  credentialurl: https://www.google.com     
   
 
 footer: >
