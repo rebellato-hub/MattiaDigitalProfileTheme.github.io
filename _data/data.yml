@@ -87,20 +87,9 @@ projects:
     learning to use SAIA PLCs and the SAIA development environment and improving my knowledge of programming languages.
 
 skills:
-  title: Skills & Proficiency
-  toolset:
-    - name: Python & Django
-      level: 98%
-    - name: Javascript & jQuery
-      level: 98%
-    - name: Angular
-      level: 98%
-    - name: HTML5 & CSS
-      level: 95%
-    - name: Ruby on Rails
-      level: 85%
-    - name: Sketch & Photoshop
-      level: 60%
+  title: Skills
+  details: |
+  
 
 footer: >
   Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
