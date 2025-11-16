@@ -1,0 +1,29 @@
+{% assign Portfolio = site.data.data.Portfolio %}
+{% if Portfolio %}
+<section class="section portfolio-section">
+  <h2 class="section-title">
+    <span class="fa-stack fa-xs">
+      <i class="fas fa-circle fa-stack-2x"></i>
+      <i class="fas fa-graduation-cap fa-stack-1x fa-inverse"></i>
+    </span>
+    {{ Portfolio.title }}
+  </h2>
+
+  <div class="item">
+    <div class="details">{{ Portfolio.details | markdownify }}</div>
+
+    {% if Portfolio.credentialurl %}
+    <div class="port-url">
+      <a
+        href="{{ Portfolio.credentialurl }}"
+        target="_blank"
+        rel="noreferrer noopener"
+      >
+        {{ Portfolio.credentialname }}
+      </a>
+    </div>
+    {% endif %}
+  </div>
+
+</section>
+{% endif %}
