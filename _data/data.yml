@@ -89,9 +89,9 @@ projects:
 skills:
   title: Skills
   list:
-    -name: Softskills
-     details: |
-       CIaoaaaaa
+    - name: Softskills
+      details: |
+        CIaoaaaaa
   
 
 footer: >
